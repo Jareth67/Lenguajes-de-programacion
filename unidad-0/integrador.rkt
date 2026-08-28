@@ -89,4 +89,4 @@ W1 = (with-exp 'y M1 A2)
 = lookup('x, sigma2) + lookup('y, sigma2)                                    [id]
 = 5 + 10
 = 15
-|#integrador
+|#
